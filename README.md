@@ -29,4 +29,4 @@ print(format(d,".2f"))
 ![github logo](distbw.png)
 
 ### RESULT:
-Program finished successfully.
+Thus the program to find the distance between the points is executed successfully.
